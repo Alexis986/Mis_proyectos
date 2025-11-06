@@ -1,1 +1,7 @@
-
+[theme]
+base= "light"
+primaryColor= "#3DFADE" #botones y acentos
+backgroundColor= "#000000ff"  #Fondo general
+secondaryBackgroundColor= "#1d1d1dff"  #sidebar, widgets
+textColor= "#ffffffff"  #texto principal
+font= "Sans Serif"  #tipografia 
